@@ -1,0 +1,58 @@
+clients,domain,normalized
+cern.zenodo,zenodo.org,Zenodo
+None,github.com,Github
+None,gitlab.com,GitLab
+None,sicily.classics.ox.ac.uk,Inscriptions of Ancient Sicily
+None,www.ncbi.nlm.nih.gov,Genbank
+None,www.ebi.ac.uk,EMBL-EBI
+inist.cds,cdsarc.cds.unistra.fr,VizieR
+None,www.rsc.org,None
+None,pubs.acs.org,None
+None,www.sciencedirect.com,None
+None,www.ccdc.cam.ac.uk,CCDC
+None,www.sciencedirect.com,None
+None,clinicaltrials.gov,ClinicalTrials.gov
+None,site.unibo.it,None
+None,ec.europa.eu,None
+None,www.kaggle.com,Kaggle
+None,ripo.cineca.it,Registro dell'implantologia Protesica Ortopedica
+None,simbad.u-strasbg.fr,SIMBAD Astronomical Database
+None,archive.softwareheritage.org,Sofware Heritage
+figshare.ars,figshare.com,Figshare
+None,bioconductor.org,Bioconductor
+None,www.morphosource.org,MorphoSource
+None,www.frontiersin.org,None
+None,www.webofscience.com,None
+None,mimesisjournals.com,None
+None,drive.google.com,None
+None,10.0.20.161,None
+None,grace.jpl.nasa.gov,Grace Tellus
+None,hdl.handle.net,None
+None,onlinelibrary.wiley.com,None
+ccdc.csd,None,CCDC
+Public Library of Science (PLoS),None,PLoS
+crui.unibo,amsacta.unibo.it,AMS Acta
+cern.hepdata,None,HEPData
+cos.osf,osf.io,OSF
+Elsevier BV,None,None
+bl.mendeley,data.mendeley.com,Mendeley Data
+MDPI AG,www.mdpi.com,None
+Frontiers Media SA,None,None
+Worldwide Protein Data Bank,,Protein Data Bank
+Springer Science and Business Media LLC,None,None
+dryad.dryad,None,Dryad
+Wiley,None,None
+American Chemical Society (ACS),None,None
+Institute of Electrical and Electronics Engineers (IEEE),None,None
+Informa UK Limited,None,None
+Geological Society of America,None,None
+Springer Science and Business Media LLC,None,None
+gdcc.harvard-dv,None,GDCC
+pangaea.repository,None,PANGAEA
+BMJ,None,None
+jugt.yxcdej,None,Copernicus Marine Service
+SAGE Publications,None,None
+Oxford University Press (OUP),None,None
+Pensoft Publishers,None,None
+tib.gfz,None,GFZ Data Services
+stsci.mast,None,Barbara A. Mikulski Archive for Space Telescopes
